@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>{{.Title}}</title>
+    <link href="data:image/svg+xml;base64,INJECT_FAVICON" rel="icon" type="image/svg+xml" />
+    <!-- <style type="text/css">INJECT_CSS</style> -->
+    <script>
+        INJECT_JS
+    </script>
+</head>
+
+<body>
+    <h2 id="page-title"></h2>
+    <div class="search">
+        Search <input placeholder="Search by name, acrynoym, or URL" />
+        <div class="clear" onclick="clearSearch()">X</div>
+    </div>
+    <br><br>
+    <div class="link-container">
+        <strong>Menu</strong>
+        <div id="links"></div>
+    </div>
+    <div id="category-container"></div>
+</body>
+
+<div id="top-scroll" onclick="window.scrollTo(0, 0);">^</div>
+
+</html>

@@ -1,0 +1,78 @@
+{
+  "title": "App Hub",
+  "categories": [
+    {
+      "title": "Productivity",
+      "apps": [
+        {
+          "acronym": "",
+          "name": "Microsoft 365",
+          "icon": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31",
+          "link": "",
+          "environments": [
+            {
+              "name": "Excel",
+              "link": "https://www.microsoft.com/en-us/microsoft-365/excel"
+            },
+            {
+              "name": "Word",
+              "link": "https://www.microsoft.com/en-us/microsoft-365/word"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "News",
+      "apps": [
+        {
+          "acronym": "",
+          "name": "Google News",
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_News_icon.svg/2503px-Google_News_icon.svg.png",
+          "link": "https://news.google.com/",
+          "environments": []
+        },
+        {
+          "acronym": "",
+          "name": "The Verge",
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Verge_Logo_2016.svg/480px-The_Verge_Logo_2016.svg.png",
+          "link": "https://theverge.com/",
+          "environments": []
+        },
+        {
+          "acronym": "NYT",
+          "name": "The New York Times",
+          "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
+          "link": "https://www.nytimes.com/",
+          "environments": []
+        }
+      ]
+    },
+    {
+      "title": "Shopping",
+      "apps": [
+        {
+          "acronym": "",
+          "name": "Best Buy",
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Best_Buy_logo_2018.svg/320px-Best_Buy_logo_2018.svg.png",
+          "link": "https://www.bestbuy.com/site/misc/deal-of-the-day/pcmcat248000050016.c?id=pcmcat248000050016",
+          "environments": []
+        },
+        {
+          "acronym": "",
+          "name": "Lowes",
+          "icon": "https://www.lowescdn.com/images/logos/Lowes_logo_pms_280.png",
+          "link": "https://www.lowes.com/l/savings/daily-deals",
+          "environments": []
+        },
+        {
+          "acronym": "",
+          "name": "The Home Depot",
+          "icon": "https://corporate.homedepot.com/sites/default/files/image_gallery/THD_logo.jpg",
+          "link": "https://www.homedepot.com/SpecialBuy/SpecialBuyOfTheDay",
+          "environments": []
+        }
+      ]
+    }
+  ]
+}
